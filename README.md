@@ -1,4 +1,6 @@
-# Smart-Dustbin
+# Smart-Dustbin with servo.
+
+INTERN ID:CIS441
 A smart dustbin which can open and close its lid automatically as soon as someone comes near it to throw something.
 The main concept behind the Smart Dustbin using Arduino project is Object Detection.
 
